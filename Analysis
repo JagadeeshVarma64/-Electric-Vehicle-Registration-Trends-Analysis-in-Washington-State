@@ -1,0 +1,1 @@
+Used data from the Department of Licensing (DOL) together with information from the EPA and NHTSA to perform a thorough analysis of car registration trends in Washington State. The study used R, SQL, and Python to investigate county-level dynamics, seasonal trends, and electric vehicle (EV) adoption patterns.
